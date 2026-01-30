@@ -15,8 +15,7 @@ namespace CollegeSchedule.Services
             _db = db;
         }
 
-        public async Task<List<ScheduleByDateDto>> GetScheduleForGroup(string
-groupName, DateTime startDate, DateTime endDate)
+        public async Task<List<ScheduleByDateDto>> GetScheduleForGroup(string groupName, DateTime startDate, DateTime endDate)
         {
             ValidateDates(startDate, endDate);
 
@@ -24,7 +23,7 @@ groupName, DateTime startDate, DateTime endDate)
 
             var schedules = await LoadSchedules(group.GroupId, startDate, endDate);
 
-            return BuildScheduleDto(schedules);
+            return BuildScheduleDto(startDate, endDate,schedules);
         }
 
         private static void ValidateDates(DateTime start, DateTime end)
@@ -119,7 +118,7 @@ groupName, DateTime startDate, DateTime endDate)
                 .GroupBy(s => s.LessonDate)
                 .ToDictionary(g => g.Key, g => g.ToList());
         }
-         private staticScheduleByDateDto BuildDayDto(List<Schedule> daySchedules)
+         private static ScheduleByDateDto BuildDayDto(List<Schedule> daySchedules)
         { 
             var lessons = daySchedules 
                 .GroupBy(s => new { s.LessonTime.LessonNumber, s.LessonTime.TimeStart, s.LessonTime.TimeEnd }) 
