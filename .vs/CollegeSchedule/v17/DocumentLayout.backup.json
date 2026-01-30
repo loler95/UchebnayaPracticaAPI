@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\lessontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\lessontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\lessongrouppart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\lessongrouppart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\user\\source\\repos\\collegeschedule\\collegeschedule\\collegeschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B44B82F6-AED8-457F-839F-A5BF7CFA2525}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\collegeschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CollegeSchedule\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:11:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Schedule.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Schedule.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:08:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weekday.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Weekday.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Weekday.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Weekday.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Weekday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:07:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Subject.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:07:33.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Teacher.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:07:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\StudentGroup.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\StudentGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:06:30.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Specialty.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Specialty.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Specialty.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:05:33.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\LessonTime.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\LessonTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\LessonTime.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\LessonTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:04:56.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonGroupPart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\LessonGroupPart.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\LessonGroupPart.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\LessonGroupPart.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\LessonGroupPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:04:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Classroom.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:03:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Building.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Models\\Building.cs",
+              "RelativeToolTip": "CollegeSchedule\\Models\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:02:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollegeSchedule",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+              "RelativeDocumentMoniker": "CollegeSchedule\\CollegeSchedule.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+              "RelativeToolTip": "CollegeSchedule\\CollegeSchedule.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T06:00:05.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
