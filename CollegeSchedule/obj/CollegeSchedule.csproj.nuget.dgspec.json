@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {}
+    "C:\\Users\\Yan\\Desktop\\Учебная практика гит\\UchebnayaPracticaAPI\\CollegeSchedule\\CollegeSchedule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {
+    "C:\\Users\\Yan\\Desktop\\Учебная практика гит\\UchebnayaPracticaAPI\\CollegeSchedule\\CollegeSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+        "projectUniqueName": "C:\\Users\\Yan\\Desktop\\Учебная практика гит\\UchebnayaPracticaAPI\\CollegeSchedule\\CollegeSchedule.csproj",
         "projectName": "CollegeSchedule",
-        "projectPath": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\CollegeSchedule\\CollegeSchedule\\obj\\",
+        "projectPath": "C:\\Users\\Yan\\Desktop\\Учебная практика гит\\UchebnayaPracticaAPI\\CollegeSchedule\\CollegeSchedule.csproj",
+        "packagesPath": "C:\\Users\\Yan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yan\\Desktop\\Учебная практика гит\\UchebnayaPracticaAPI\\CollegeSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
